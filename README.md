@@ -1,10 +1,10 @@
 # BOWLING_GAME
 
 ## Project Review
-![home page](assets/images/overview.png)
+![home page](assets/images/Capture.PNG)
 
 ## About
-This project was a simple assignment given to test our knowledge on various languages. It's about implementing and bringing to life a bowling game. You roll the ball to knock down pins
+This project was a simple assignment to test our knowledge on various languages. It's about implementing and bringing to life a bowling game. You roll the ball to knock down pins
 
 ## BUILT WITH
 * HTML 
@@ -40,4 +40,4 @@ Feel free to check the [issues page](https://github.com/BoanongJoshua/bowling-ga
 - GitHub: [@BoanongJoshua](https://github.com/RashJrEdmund/bowling-game)
 
  ## License
-This project is [Rebase](./LICENSE) licensed. This project was made by "Boanong Joshua"
+This project is [Rebase](./LICENSE) licensed. This project was done by "Boanong Joshua"
