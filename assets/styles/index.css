@@ -39,6 +39,7 @@ ul {
   font-size: 30px;
   font-weight: bold;
   margin: 20px 0 30px;
+  color: rgba(59, 49, 120, 1);
 }
 
 .loading {
@@ -71,7 +72,7 @@ ul {
 
 .table-header {
   color: white;
-  background-color: #000000e3;
+  background-color:rgba(59, 49, 120, 1);
   text-align: center;
 }
 
@@ -99,7 +100,7 @@ ul {
   text-align: center;
   border: none;
   padding: 15px 20px;
-  background-color: #000;
+  background-color:rgba(59, 49, 120, 1);
   color: #ddd;
   border-radius: 5px;
   margin-top: 40px;
@@ -109,7 +110,7 @@ ul {
 }
 
 .btn1 {
-  background-color: brown;
+  background-color: rgb(165, 42, 147);
 }
 
 @keyframes loadinganime {
