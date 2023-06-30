@@ -37,7 +37,7 @@ Feel free to check the [issues page](https://github.com/BoanongJoshua/bowling-ga
 
 ## AUTHOR
 **Boanong**
-- GitHub: [@BoanongJoshua](https://github.com/RashJrEdmund/bowling-game)
+- GitHub: [@BoanongJoshua](https://github.com/BoanongJoshua/bowling-game)
 
  ## License
 This project is [Rebase](./LICENSE) licensed. This project was done by "Boanong Joshua"
